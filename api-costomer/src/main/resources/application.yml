@@ -1,0 +1,12 @@
+server:
+  port: 8081
+
+dubbo:
+  application:
+    name: dubbo-costomer
+  protocol:
+    name: dubbo
+    port: 20080
+  registry:
+    protocol: zookeeper
+    address: localhost:2181

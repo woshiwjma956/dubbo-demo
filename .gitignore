@@ -1,0 +1,6 @@
+# Project exclude paths
+/api-costomer/target/
+/api-facade/target/
+/api-provider/target/
+*.iml
+*.idea
